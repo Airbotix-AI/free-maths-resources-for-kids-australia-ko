@@ -32,3 +32,7 @@
 연령·호주 학년별 자료, 공식 출처, 무료 이용 조건과 완성된 창작 예시를 제공합니다. 안내 언어를 선택하세요. 외부 수업의 제공 언어는 별도입니다.
 
 [English](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-ko)
+
+## Airbotix Cheatsheet: 바로 읽고 공유하기
+
+[Airbotix Cheatsheet: 바로 읽고 공유하기](CHEATSHEETS.md)
