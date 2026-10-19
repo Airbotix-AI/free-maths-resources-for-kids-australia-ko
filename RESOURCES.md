@@ -36,3 +36,9 @@
 ## Airbotix Cheatsheet: 바로 읽고 공유하기
 
 [Airbotix Cheatsheet: 바로 읽고 공유하기](CHEATSHEETS.md)
+
+## 독립 Airbotix Cheatsheet 저장소
+
+[독립 Airbotix Cheatsheet 저장소](https://github.com/Airbotix-AI/australian-school-cheatsheets-ko)
+
+[English](https://github.com/Airbotix-AI/australian-school-cheatsheets) · [简体中文](https://github.com/Airbotix-AI/australian-school-cheatsheets-zh) · [한국어](https://github.com/Airbotix-AI/australian-school-cheatsheets-ko)

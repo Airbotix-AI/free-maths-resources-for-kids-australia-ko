@@ -1,6 +1,6 @@
 # 호주 어린이 무료 수학 학습 자료
 
-[Airbotix Cheatsheet: 바로 읽고 공유하기](CHEATSHEETS.md)
+[Airbotix Cheatsheet: 바로 읽고 공유하기](https://github.com/Airbotix-AI/australian-school-cheatsheets-ko)
 
 [English](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-ko)
 
